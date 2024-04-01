@@ -7,6 +7,6 @@ namespace ProductAPI.Model.Base
     {
         [Key]
         [Column("id")]
-        public long id { get; set; }
+        public long Id { get; set; }
     }
 }

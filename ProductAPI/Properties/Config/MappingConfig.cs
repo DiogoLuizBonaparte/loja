@@ -4,7 +4,7 @@ using ProductAPI.Model;
 
 namespace ProductAPI.Properties.Config
 {
-    public class MapperConfig
+    public class MappingConfig
     {
         public static MapperConfiguration RegisterMaps()
         {
