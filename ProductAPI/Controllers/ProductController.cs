@@ -27,7 +27,7 @@ namespace ProductAPI.Controllers
         public async Task<ActionResult<ProductVO>> FindById(long id)
         {
             var product = await _repository.FindById(id);
-            if (product == null) return NotFound();
+            if (product.id <= 0) return NotFound();
             return Ok(product);
 
         }

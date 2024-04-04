@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeekFront")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+111069796e434535dc1b4471433e50cacad55c3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeekFront")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeekFront")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
